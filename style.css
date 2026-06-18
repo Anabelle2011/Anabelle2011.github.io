@@ -28,14 +28,14 @@ h1, h2, h3 { font-family: "Libre Baskerville", serif;
 nav li {
    list-style-type:none;
    display: inline-block;
-   color: #082657;
+   color: lightpurple;
    padding: 10px;
    margin: 5px;
 }
 
 
 nav li:hover {
-   background-color: #082657;
+   background-color: darkblue;
 
 }
 
