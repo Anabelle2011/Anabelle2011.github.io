@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400..700;1,400..700&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+Body {
+   color:skyblue;
+   max-width: 700px;
+   margin: auto;
+   font-family: "Raleway", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: <weight>;
+   font-style: normal;
+
+}
+
+img {
+   display: block;
+   margin: auto;
+
+}
+
+h1, h2, h3 { font-family: "Libre Baskerville", serif;
+
+   color: blue;
+   background-color:#9c9df7
+   Text-align: center;
+}
+
+nav li {
+   list-style-type:none;
+   display: inline-block;
+   color: skyblue;
+   padding: 10px;
+   margin: 5px;
+}
+
+
+nav li:hover {
+   background-color: blue;
+
+}
+
+
+nav {
+   width: 80%;
+   margain: auto;
+}
