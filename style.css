@@ -8,6 +8,7 @@ Body {
    font-optical-sizing: auto;
    font-weight: <weight>;
    font-style: normal;
+   background-color: #0b0a4a;
 
 }
 
@@ -36,6 +37,7 @@ nav li:hover {
    background-color: darkblue;
 
 }
+
 
 
 nav {
